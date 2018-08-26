@@ -1,4 +1,4 @@
-# gpu_state_monitor
+# gstate
 a small tool to get GPU state and usage on multiple servers
 
 TODO
